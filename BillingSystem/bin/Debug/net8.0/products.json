@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Water",
+    "Description": "Good drink",
+    "Price": 10,
+    "Tax": {
+      "Name": "Excempt ITBIS",
+      "Percentage": 0
+    }
+  },
+  {
+    "Name": "Oreo",
+    "Description": "good cookie",
+    "Price": 25,
+    "Tax": {
+      "Name": "Reduced ITBIS",
+      "Percentage": 0.16
+    }
+  },
+  {
+    "Name": "Coca cola",
+    "Description": "good",
+    "Price": 15,
+    "Tax": {
+      "Name": "Reduced ITBIS",
+      "Percentage": 0.16
+    }
+  },
+  {
+    "Name": "Cocoa",
+    "Description": "good",
+    "Price": 43,
+    "Tax": {
+      "Name": "Reduced ITBIS",
+      "Percentage": 0.16
+    }
+  },
+  {
+    "Name": "Mac and cheese",
+    "Description": "...",
+    "Price": 99,
+    "Tax": {
+      "Name": "Reduced ITBIS",
+      "Percentage": 0.16
+    }
+  }
+]

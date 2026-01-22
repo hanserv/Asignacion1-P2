@@ -1,0 +1,223 @@
+[
+  {
+    "Id": 93,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Water dasani",
+          "Description": "good water in dr i think",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 10,
+        "Taxes": 0,
+        "SubTotal": 100
+      }
+    ],
+    "Date": "2026-01-22T00:11:15.3275967-04:00",
+    "SubTotal": 100,
+    "Taxes": 0,
+    "Total": 100
+  },
+  {
+    "Id": 90,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Water",
+          "Description": "good water in dr i think",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 3,
+        "Taxes": 0,
+        "SubTotal": 30
+      }
+    ],
+    "Date": "2026-01-22T00:21:39.9091265-04:00",
+    "SubTotal": 30,
+    "Taxes": 0,
+    "Total": 30
+  },
+  {
+    "Id": 94,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Water 2cond",
+          "Description": "good water in dr i think",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 1,
+        "Taxes": 0,
+        "SubTotal": 10
+      }
+    ],
+    "Date": "2026-01-22T00:22:20.4736988-04:00",
+    "SubTotal": 10,
+    "Taxes": 0,
+    "Total": 10
+  },
+  {
+    "Id": 95,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Water dasani",
+          "Description": "good water in dr i think",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 10,
+        "Taxes": 0,
+        "SubTotal": 100
+      }
+    ],
+    "Date": "2026-01-22T01:15:37.9639092-04:00",
+    "SubTotal": 100,
+    "Taxes": 0,
+    "Total": 100
+  },
+  {
+    "Id": 96,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Cookie",
+          "Description": "good cookie",
+          "Price": 100,
+          "Tax": {
+            "Name": "General ITBIS",
+            "Percentage": 0.18
+          }
+        },
+        "Quantity": 10,
+        "Taxes": 180,
+        "SubTotal": 1000
+      }
+    ],
+    "Date": "2026-01-22T01:16:28.5255683-04:00",
+    "SubTotal": 1000,
+    "Taxes": 180,
+    "Total": 1180
+  },
+  {
+    "Id": 97,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Water dasani",
+          "Description": "good water in dr i think",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 1,
+        "Taxes": 0,
+        "SubTotal": 10
+      }
+    ],
+    "Date": "2026-01-22T02:01:42.7387612-04:00",
+    "SubTotal": 10,
+    "Taxes": 0,
+    "Total": 10
+  },
+  {
+    "Id": 98,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Water dasani",
+          "Description": "good water in dr i think",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 1,
+        "Taxes": 0,
+        "SubTotal": 10
+      }
+    ],
+    "Date": "2026-01-22T02:02:44.3961225-04:00",
+    "SubTotal": 10,
+    "Taxes": 0,
+    "Total": 10
+  },
+  {
+    "Id": 99,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Water",
+          "Description": "good water in dr i think",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 3,
+        "Taxes": 0,
+        "SubTotal": 30
+      }
+    ],
+    "Date": "2026-01-22T03:25:49.4629812-04:00",
+    "SubTotal": 30,
+    "Taxes": 0,
+    "Total": 30
+  },
+  {
+    "Id": 100,
+    "Products": [
+      {
+        "Product": {
+          "Name": "Mac and cheese",
+          "Description": "...",
+          "Price": 99,
+          "Tax": {
+            "Name": "Reduced ITBIS",
+            "Percentage": 0.16
+          }
+        },
+        "Quantity": 1,
+        "Taxes": 15.84,
+        "SubTotal": 99
+      },
+      {
+        "Product": {
+          "Name": "Water",
+          "Description": "Good drink",
+          "Price": 10,
+          "Tax": {
+            "Name": "Excempt ITBIS",
+            "Percentage": 0
+          }
+        },
+        "Quantity": 2,
+        "Taxes": 0,
+        "SubTotal": 20
+      }
+    ],
+    "Date": "2026-01-22T11:06:20.9174886-04:00",
+    "SubTotal": 119,
+    "Taxes": 15.84,
+    "Total": 134.84
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\bin\Debug\net8.0\BillingSystem.exe
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\bin\Debug\net8.0\BillingSystem.deps.json
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\bin\Debug\net8.0\BillingSystem.runtimeconfig.json
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\bin\Debug\net8.0\BillingSystem.dll
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\bin\Debug\net8.0\BillingSystem.pdb
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\BillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\BillingSystem.AssemblyInfoInputs.cache
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\BillingSystem.AssemblyInfo.cs
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\BillingSystem.dll
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\refint\BillingSystem.dll
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\BillingSystem.pdb
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\BillingSystem.genruntimeconfig.cache
+C:\Users\hanse\source\repos\BillingSystem\BillingSystem\obj\Debug\net8.0\ref\BillingSystem.dll
